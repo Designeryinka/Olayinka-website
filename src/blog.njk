@@ -1,0 +1,30 @@
+--- 
+title: home page
+layout: 'base.njk'
+pagedescription: Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquid illum quia optio illo culpa molestias, vitae ut recusandae quam asperiores autem soluta aspernatur quas ab dicta voluptas eligendi eaque est.
+---
+    
+
+
+<div class="container_large">
+  <div class="padding_global">
+    <div class="">
+      <div class="blog-header">
+        <h1 class="section-title">Recent articles</h1> 
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit provident inventore reiciendis impedit voluptates nostrum quos debitis aliquid eum obcaecati! Illum, quo blanditiis. Eveniet, inventore voluptas repellendus aliquid cumque sunt.</p>
+      </div>
+      
+      <ul role="list" class="articles__list flow">
+         
+         {%- for post in collections.post -%}
+           
+           {% include 'article-snippet.njk' %}
+      
+         {%- endfor -%}
+      </ul>
+      
+      </div>
+       
+  </div>
+</div>
+
