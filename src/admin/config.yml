@@ -21,5 +21,5 @@ collections:
      - { label: "Image Cation", name: "imageAlt", widget: "string" }
      - { label: "Body", name: "body", widget: "markdown" }
      - { label: "Author Image", name: "authorImage", widget: "image" }
-      - { label: "Author Link", name: "authorUrl", widget: "string" }
+     - { label: "Author Link", name: "authorUrl", widget: "string" }
 
