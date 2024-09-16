@@ -14,7 +14,6 @@ layout: 'base.njk'
                         {{ title }}
                     </h1>
                 </div>
-              
                   
               <figure class="main-article__figure">
                  <img src="{{ image }}" alt="{{ imageAlt }}">
@@ -32,5 +31,29 @@ layout: 'base.njk'
         </div>
     </div>
  </section>
+
+ <section>
+    <div class="container_large">
+        <div class="padding_global">
+            <div class="section-title mid">
+                <h2 class="tit"> More Articles
+                 </h2>
+               
+                
+            </div>
+            <div>
+              <ul role="list" class="articles__list flow">
+                  {%- for post in collections.featured | reverse -%}
+                     {% include 'article-snippet.njk' %}
+                  {%- endfor -%}
+              </ul>
+            </div>
+            
+            <div class="centerd-botton">
+                <a href="/blog" class="button">Show more thoughts</a>
+            </div>
+        </div>
+    </div>
+  </section>
  
  

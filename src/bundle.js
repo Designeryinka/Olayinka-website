@@ -1,3 +1,4 @@
+
 // check for saved 'darkMode' in localStorage
 let darkMode = localStorage.getItem('darkMode'); 
 
@@ -180,14 +181,7 @@ loadTl.from('.heroes',{
 
 
         
-    const activePage = window.location.pathname;
-const activeNav = document.querySelectorAll('.ava').
-forEach(link => {
-    if(link.href.includes(`${activePage}`)){
-      link.classList.add('navactive');
-      
-    }
-  })
+   
 
 
 
@@ -285,3 +279,12 @@ function switchTab(newTab) {
   newTab.setAttribute("tabindex", "0");
   newTab.focus();
 }
+
+
+
+
+
+
+
+
+

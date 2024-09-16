@@ -10,8 +10,17 @@
         <div class="cat">
           
           
+          
+          <a class="author" href="{{ post.data.authorUrl }}" target="_blank">
+            <img src="{{ post.data.authorImage}}" alt="" srcset="">
+           
+              <p class="snippet_author"> {{ post.data.author }}</p>
+           
+            
+          </a>
+
           <p class="snippet_date">{{ post.date | postDate }}</p>
-          <p class="snippet_author"> By {{ post.data.author }}</p>
+          
         </div>
         
          

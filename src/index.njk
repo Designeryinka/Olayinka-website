@@ -13,7 +13,7 @@ pagedescription: Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliqu
                             <h1>Hello, I'm Olayinka, I craft
                                 Custom Webflow Websites that Stands Out.</h1>
                             <p>I'm a passionate creative designer specializing in crafting captivating visual experiences and innovative websites.</p>
-                            <a  class="button" href="mailto:ajeyinka12@gmail.com" target="_top">
+                            <a  class="button" href="/contact" target="_top">
                     
                                 <span class="button__icon-wrapper">
                                     <svg width="10" class="button__icon-svg" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 15">
@@ -572,6 +572,31 @@ pagedescription: Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliqu
                     </div>
                 </div>
             </section>
+
+            <section>
+              <div class="container_large">
+                  <div class="padding_global">
+                      <div class="section-title mid">
+                          <h2 class="tit"> Blog
+                           </h2>
+                         
+                          
+                      </div>
+                      <div>
+                        <ul role="list" class="articles__list flow">
+                            {%- for post in collections.featured | reverse -%}
+                               {% include 'article-snippet.njk' %}
+                            {%- endfor -%}
+                        </ul>
+                      </div>
+                      
+                      <div class="centerd-botton">
+                          <a href="/blog" class="button">Show more Articles</a>
+                      </div>
+                  </div>
+              </div>
+            </section>
+           
             
           
         

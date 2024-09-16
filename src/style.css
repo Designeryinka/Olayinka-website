@@ -19,12 +19,12 @@ a {
 
   --bg-clr:  rgb(255, 255, 255);
   --pri-clr:rgb(24, 24, 27);
-  --accent-clr:rgb(208,255,113);
+  --accent-clr:rgb(189, 253, 109);
   --paragraph-clr:#757575;
   --ff-2: "Radio Canada Big", sans-serif;
   --ff-1: "Inter Tight", sans-serif;
   --fs-big:70px;
-  --fs-1: 42px;
+  --fs-1: 40px;
   --fs-2:36px;
   --fs-3:30px;
   --fs-4:28px;
@@ -157,6 +157,7 @@ font-size: var(--fs-2);
 line-height: 1.2;
   text-wrap: balance;
   font-weight: 500;
+  margin-bottom: 10px;
   
 }
 h3{
@@ -2184,7 +2185,6 @@ textarea {
 
   .art-title {
     margin-bottom: 20px;
-    max-width: 700px;
     margin-inline: auto;
   }
 
@@ -2196,4 +2196,61 @@ textarea {
 .main-article img{
   margin-bottom: 20px;
   width: 100%;
+}
+
+
+.author{
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  gap:10px;
+  
+}
+
+.author img{
+  width:30px;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  
+}
+
+.snippet_author{
+  line-height: 1.5;
+  
+}
+
+.tit{
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.centerd-botton{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.main-article ol{
+  font-weight: 500;
+  margin-top: 20px;
+  list-style-type: decimal-leading-zero;
+}
+
+.main-article ol h4 {
+  display: inline;
+}
+
+.small{
+  max-width: 400px;
+}
+
+.zoom img{
+  aspect-ratio: 2/1;
+  border: 0.4px solid var(--pri-clr);
+}
+
+.main-article a{
+  text-decoration: underline;
+  text-decoration-color: var(--pri-clr);
 }
