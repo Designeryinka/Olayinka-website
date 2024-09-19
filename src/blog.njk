@@ -1,30 +1,20 @@
---- 
+---
 title: designer_yinka Blog | Webflow, websites, SEO, and Customer Success Content
-layout: 'base.njk'
+layout: "base.njk"
 pagedescription: designer_yinka's Blog for Webflow, SEO, Ux, and Web development content, which has more than 4,000 subscribers and attracts over 5,000 monthly visitors.
 ---
-    
-
 
 <div class="container_large">
   <div class="padding_global">
     <div class="">
       <div class="blog-header">
-        <h1 class="section-title">Recent articles</h1> 
-        
+        <h1 class="section-title">Recent articles</h1>
       </div>
-      
+
       <ul role="list" class="articles__list flow">
-         
-         {%- for post in collections.post -%}
-           
-           {% include 'article-snippet.njk' %}
-      
-         {%- endfor -%}
+        {%- for post in collections.post | reverse -%} {% include
+        'article-snippet.njk' %} {%- endfor -%}
       </ul>
-      
-      </div>
-       
+    </div>
   </div>
 </div>
-

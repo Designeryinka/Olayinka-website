@@ -1948,6 +1948,14 @@ textarea {
   text-decoration-color: var(--pri-clr);
 }
 
+.main-article h3 {
+  font-size: 20px;
+}
+
+.main-article *p {
+  font-weight: 500;
+}
+
 .faq-component {
   margin-top: 40px;
   max-width: 900px;

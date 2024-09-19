@@ -5,11 +5,11 @@ date: 2024-05-15
 tags: ["post", "featured"]
 image: /assets/blog/fontguide.jpg
 authorImage: /assets/blog/author.webp
-authorUrl: https://www.google.com/
-imageAlt: Webflow designer image
+authorUrl: https://designeryinka.com/
+imageAlt: Webfonts image
 category: Webdesign
 pagedescription: Discover the art of selecting fonts for web design. Align with brand personality, consider audience preferences, and prioritize readability.
-description: Ever wonder why some websites feel so inviting, while others leave you squinting at the screen? 
+description: Ever wonder why some websites feel so inviting, while others leave you squinting at the screen?
 ---
 
 <h2>Introduction:</h2>
@@ -54,7 +54,6 @@ description: Ever wonder why some websites feel so inviting, while others leave 
   </li>
 </ol>
 
-
 <h2>Staying in Style: Consistency Is Key:</h2>
 
 <ol>
@@ -68,7 +67,6 @@ description: Ever wonder why some websites feel so inviting, while others leave 
 
 <img src="/assets/blog/heading.png" alt="font Hierarchy">
 
-
 <h2>Trial and Error: Test-Driving Your Fonts:</h2>
 
 <ol>
@@ -79,7 +77,6 @@ description: Ever wonder why some websites feel so inviting, while others leave 
     <h4>Accessibility:</h4> <p>  Not everyone has 20/20 vision, so make sure your fonts are friendly to everyone. Choose fonts that are easy to read, and don't forget about color contrast for a warm welcome to all visitors.</p>
   </li>
 </ol>
-
 
 <h2>Going with the Flow: Trends and Timelessness:</h2>
 <p>
