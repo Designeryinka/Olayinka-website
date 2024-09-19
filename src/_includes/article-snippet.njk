@@ -28,7 +28,7 @@
          <h3 class="snippet__title"> {{ post.data.title }} </h3> 
          <p class="snippet__body">{{ post.data.description }}</p>  
         <a href="{{ post.url }}" class="button">
-            Read More
+            Read More <span class="visually-hidden"> about {{ post.data.title }}</span>
         </a>
       </div>
       

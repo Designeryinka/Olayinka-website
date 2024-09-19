@@ -1106,7 +1106,7 @@ footer .two-col h3 {
 
 footer .links {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
   gap: 40px;
 }
 
@@ -2029,4 +2029,8 @@ textarea {
 
 .connect-icons img {
   width: 80px;
+}
+
+.visually-hidden {
+  display: none;
 }

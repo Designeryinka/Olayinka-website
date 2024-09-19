@@ -1,59 +1,47 @@
 ---
-layout: 'base.njk'
+layout: "base.njk"
 ---
-       
 
 <section>
-    <div class="container_large">
-        <div class="padding_global">
-          <article class="main-article">
-             <div class="container--narrow">
-                <div class="art-title">
-                    <h5 class="category"> {{ category }}</h5>
-                    <h1 class="main-article-title">
-                        {{ title }}
-                    </h1>
-                </div>
-                  
-              <figure class="main-article__figure">
-                 <img src="{{ image }}" alt="{{ imageAlt }}">
-                 <figcaption>
-                   
-                 </figcaption>
-              </figure>
- 
-             {{content | safe }}
- 
- 
- 
-            </div>
-         </article>
-        </div>
-    </div>
- </section>
+  <div class="container_large">
+    <div class="padding_global">
+      <article class="main-article">
+        <div class="container--narrow">
+          <div class="art-title">
+            <h5 class="category">{{ category }}</h5>
+            <h1 class="main-article-title">
+              {{ title }}
+            </h1>
+          </div>
 
- <section>
-    <div class="container_large">
-        <div class="padding_global">
-            <div class="section-title mid">
-                <h2 class="tit"> More Articles
-                 </h2>
-               
-                
-            </div>
-            <div>
-              <ul role="list" class="articles__list flow">
-                  {%- for post in collections.featured | reverse -%}
-                     {% include 'article-snippet.njk' %}
-                  {%- endfor -%}
-              </ul>
-            </div>
-            
-            <div class="centerd-botton">
-                <a href="/blog" class="button">Show more thoughts</a>
-            </div>
+          <figure class="main-article__figure">
+            <img src="{{ image }}" alt="{{ imageAlt }}" />
+            <figcaption></figcaption>
+          </figure>
+
+          {{ content | safe }}
         </div>
+      </article>
     </div>
-  </section>
- 
- 
+  </div>
+</section>
+
+<section>
+  <div class="container_large">
+    <div class="padding_global">
+      <div class="section-title mid">
+        <h2 class="tit">More Articles</h2>
+      </div>
+      <div>
+        <ul role="list" class="articles__list flow">
+          {%- for post in collections.featured | reverse -%} {% include
+          'article-snippet.njk' %} {%- endfor -%}
+        </ul>
+      </div>
+
+      <div class="centerd-botton">
+        <a href="/blog" class="button">Show more Articles</a>
+      </div>
+    </div>
+  </div>
+</section>
