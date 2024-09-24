@@ -50,9 +50,11 @@ For example, consider a simple two-column layout where each column takes up 50% 
 
 .child {
 
-  width: 50%; /* 50% of the parent's width */
+  width: 50%; 
+  /* 50% of the parent's width */
 
-  height: 75%; /* 75% of the parent's height */
+  height: 75%; 
+  /* 75% of the parent's height */
 
 }<!----></pre>
 
@@ -89,9 +91,11 @@ The key difference between em and rem is the scope of their relativity. Em units
 
 .child {
 
-  width: 2em; /* 2 times the font size of the parent */
+  width: 2em; 
+  /* 2 times the font size of the parent */
 
-  height: 1em; /* 1 times the font size of the parent */
+  height: 1em; 
+  /* 1 times the font size of the parent */
 
 }<!----></pre>
 
@@ -103,9 +107,11 @@ The key difference between em and rem is the scope of their relativity. Em units
 
 .example {
 
-  width: 5rem; /* 5 times the root font size */
+  width: 5rem; 
+  /* 5 times the root font size */
 
-  height: 2rem; /* 2 times the root font size */
+  height: 2rem; 
+  /* 2 times the root font size */
 
 }<!----></pre>
 

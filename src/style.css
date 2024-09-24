@@ -2035,7 +2035,8 @@ textarea {
   display: none;
 }
 
-.reader-text-block__code-block {
-  padding: 40px;
+pre {
   margin-block: 40px;
+  width: 20px;
+  font-size: 14px;
 }
