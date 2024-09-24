@@ -9,8 +9,15 @@ authorUrl: https://designeryinka.com/
 imageAlt: css units illustration
 category: Webdesign
 pagedescription: When it comes to create a responsive website to fit the every device, It is important to know the... Tagged with beginners, css
-description: As the web continues to evolve, the importance of understanding and effectively utilizing these CSS units will only grow.
+description: Responsive web design is no longer optional—it's essential. With over 60% of global web traffic now coming from mobile devices, your site needs to adapt seamlessly to every screen size. But here's the kicker ...
 ---
+
+<h2>Introduction</h2>
+<p>Responsive web design is no longer optional—it's essential. With over 60% of global web traffic now coming from mobile devices, your site needs to adapt seamlessly to every screen size. But here's the kicker: the key to this flexibility lies in something as basic as CSS units—the building blocks that control the size, spacing, and layout of nearly every element on your site.
+
+You’ve probably heard of pixels (px) and percentages (%), but what about viewport-relative units (vw, vh) or the powerful rem? As a web designer or developer, understanding these units isn’t just a nice-to-have skill—it’s critical to creating a smooth, responsive experience for your users. Imagine a site that looks pixel-perfect on a desktop but falls apart on a mobile screen. We’ve all been there, right? It’s frustrating.
+
+In this guide, we’re diving deep into how to use CSS units intelligently. We’ll explore when to rely on fixed units for control and when to embrace fluid units for flexibility. By the end, you’ll have actionable insights that you can apply right away to make your designs more adaptable, more user-friendly, and, let’s be honest, more impressive. Let’s get into it!</p>
 
 <h2>Absolute Units: Pixels (px)</h2>
 
