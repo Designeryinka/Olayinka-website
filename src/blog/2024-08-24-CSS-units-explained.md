@@ -13,7 +13,7 @@ description: Responsive web design is no longer optional—it's essential. With 
 ---
 
 <h2>Introduction</h2>
-<p>Responsive web design is no longer optional—it's essential. With over 60% of global web traffic now coming from mobile devices, your site needs to adapt seamlessly to every screen size. But here's the kicker: the key to this flexibility lies in something as basic as CSS units—the building blocks that control the size, spacing, and layout of nearly every element on your site.
+<p>Responsive web design is no longer optional—it's essential. With over <a href="https://explodingtopics.com/blog/mobile-internet-traffic" target="_blank">60% of global web traffic now coming from mobile devices</a>, your site needs to adapt seamlessly to every screen size. But here's the kicker: the key to this flexibility lies in something as basic as CSS units—the building blocks that control the size, spacing, and layout of nearly every element on your site.
 
 You’ve probably heard of pixels (px) and percentages (%), but what about viewport-relative units (vw, vh) or the powerful rem? As a web designer or developer, understanding these units isn’t just a nice-to-have skill—it’s critical to creating a smooth, responsive experience for your users. Imagine a site that looks pixel-perfect on a desktop but falls apart on a mobile screen. We’ve all been there, right? It’s frustrating.
 
@@ -109,7 +109,7 @@ The key difference between em and rem is the scope of their relativity. Em units
 
 }<!----></pre>
 
-Both em and rem units are valuable tools for creating responsive and accessible designs. By basing the sizing of elements on the typography, designers can ensure that the layout scales harmoniously as the user adjusts their browser's text size or zooms in and out of the page.
+Both em and rem units are valuable tools for creating <a href="https://www.boia.org/blog/responsive-design-and-accessibility#:~:text=A%20responsive%20design%20creates%20a,technology%20such%20as%20screen%20readers." target="_blank">responsive and accessible designs</a>. By basing the sizing of elements on the typography, designers can ensure that the layout scales harmoniously as the user adjusts their browser's text size or zooms in and out of the page.
 Viewport-Relative Units: Pixel (px)
 
 While traditionally considered an absolute unit, pixel-based units (px) can also play a role in responsive design when used in conjunction with other CSS features, such as media queries and breakpoints.
