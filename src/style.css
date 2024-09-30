@@ -685,7 +685,7 @@ nav ul .btn {
 }
 
 .btn {
-  line-height: 1;
+  line-height: 1.2;
   text-decoration: none;
   display: inline-flex;
   align-items: center;
@@ -700,6 +700,31 @@ nav ul .btn {
   overflow: hidden;
   text-overflow: ellipsis;
   transition: background-color 0.3s;
+}
+
+.btns {
+  line-height: 1.2;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+
+  background-color: var(--bg-clr);
+  color: var(--pri-clr);
+  border-radius: 10rem;
+  font-weight: 300;
+  padding: 0.8rem 2rem;
+
+  white-space: nowrap;
+  transition: all 0.3s ease-in;
+  border: 1px solid var(--pri-clr);
+}
+
+.btns:hover {
+  background-color: gainsboro;
+  color: rgb(24, 24, 24);
+  border-radius: 7rem;
+
+  border: 1px solid var(--pri-clr);
 }
 
 .btn__icon-wrapper {
@@ -768,19 +793,23 @@ nav ul .btn {
 .site {
   position: relative;
   margin-left: 20px;
+  padding: 10px;
+  border-radius: 8px;
+  border: 0.5px solid var(--pri-clr);
 }
 
 .site img {
   min-width: 600px;
-  aspect-ratio: 6/3;
+  aspect-ratio: 3/2;
   object-fit: cover;
+  border-radius: 4px;
 }
 
 .site .name {
   --size: 80px;
   position: absolute;
-  right: 20px;
-  bottom: 20px;
+  right: 30px;
+  bottom: 30px;
   background-color: var(--pri-clr);
   color: var(--bg-clr);
   padding: 40px;
@@ -813,7 +842,7 @@ nav ul .btn {
 
 .sites {
   display: inline-flex;
-  animation: 45s slide infinite linear;
+  animation: 38s slide infinite linear;
 }
 
 @keyframes slide {
@@ -826,6 +855,12 @@ nav ul .btn {
 }
 
 @media (max-width: 900px) {
+  .site img {
+    min-width: 300px;
+    aspect-ratio: 3/2;
+    object-fit: cover;
+    border-radius: 4px;
+  }
 }
 
 .about-component {
@@ -1116,9 +1151,17 @@ footer .links {
 
 footer .links a {
   display: block;
-  font-weight: 400;
+  font-weight: 300;
+  font-size: 14px;
+  opacity: 0.7;
+  margin-bottom: 5px;
+  transition: all 400ms ease;
 }
-
+footer .links a:hover {
+  font-weight: 300;
+  font-size: 16px;
+  opacity: 0.9;
+}
 .rating {
   display: flex;
   gap: 8px;
@@ -1639,8 +1682,22 @@ nav li:hover .menu-sub {
 
 .grided {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(min(500px, 100%), 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(min(450px, 100%), 1fr));
   gap: 40px;
+  max-width: 1100px;
+  align-items: center;
+  margin-inline: auto;
+}
+
+.ggg {
+  max-width: 1100px;
+  margin-inline: auto;
+  opacity: 0.8;
+  margin-bottom: 20px;
+}
+
+.tp {
+  margin-top: 100px;
 }
 
 .mgg {
@@ -1776,7 +1833,7 @@ textarea {
 }
 
 .wrappers {
-  max-width: 900px;
+  max-width: 1000px;
   margin-inline: auto;
   font-size: 16px;
 }
@@ -1801,14 +1858,21 @@ textarea {
   padding: 0px;
 }
 
+.tabs-container ul {
+  width: max-content;
+  margin: 0px;
+  margin-bottom: 40px;
+  border-radius: 10px;
+  align-items: center;
+}
+
 .tabs-container h3 {
-  font-size: 16px;
+  font-size: 14px;
   cursor: pointer;
   font-family: var(--ff-2);
   color: var(--pri-clr);
-  font-weight: 500;
-  padding: 10px 24px;
-  border: 1px solid var(--pri-clr);
+  font-weight: 400;
+  padding: 10px 20px;
   border-radius: 2px;
   background: transparent;
 }
@@ -1818,16 +1882,35 @@ textarea {
   opacity: 0.8;
 }
 
+.twos {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(300px, 100%), 1fr));
+  gap: 20px;
+  align-items: center;
+}
+
+.twos img {
+  aspect-ratio: 2/1;
+}
+
+.twos p {
+  max-width: 60ch;
+}
+
 [aria-selected="true"] h3 {
-  color: rgb(20, 20, 20);
   border: 1px solid var(--bg-clr);
-  border-radius: 2px;
-  background: var(--accent-clr);
+  border-radius: 20px;
   border: 1px solid var(--pri-clr);
+  font-weight: 400;
+  padding: 10px 20px;
 }
 
 .tabs__panels {
-  max-width: 700px;
+  max-width: 1000px;
+}
+
+.tabs__panels p {
+  max-width: 60ch;
 }
 
 .blog-header {
@@ -2039,4 +2122,41 @@ pre {
   margin-block: 40px;
   width: 20px;
   font-size: 14px;
+}
+
+.wor {
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+.heroes img {
+  aspect-ratio: 2/1;
+}
+
+.grided img {
+  margin-bottom: 10px;
+}
+
+.case-study {
+  margin-top: 140px;
+  max-width: 1000px;
+  margin-inline: auto;
+}
+
+.case-study h1 {
+  max-width: 700px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.go-back {
+  font-weight: 500;
+  font-size: 20px;
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  margin-top: 70px;
+}
+li > p {
+  margin-bottom: 8px;
 }
