@@ -2,7 +2,7 @@
 title: Understanding Webflow Development:A Comprehensive Exploration
 author: Designer_yinka
 date: 2024-05-15
-tags: ["post", "featured"]
+tags: ["post"]
 image: /assets/blog/webflowtwo.jpg
 authorImage: /assets/blog/author.webp
 authorUrl: https://designeryinka.com/
@@ -14,7 +14,7 @@ description: In the realm of web design and development, Webflow stands out as a
 
 <h2>Introduction to Webflow Development</h2>
 <p>
-  In the realm of web design and development, Webflow stands out as a versatile platform that empowers designers to create stunning websites without the need for extensive coding knowledge.
+  In the realm of web design and development, <a href="/blog/2024-09-03-webflow/">Webflow</a> stands out as a versatile platform that empowers designers to create stunning websites without the need for extensive coding knowledge.
 </p>
 <p>
   With its intuitive interface and powerful features, Webflow has become a go-to tool for professionals seeking to deliver exceptional digital experiences.

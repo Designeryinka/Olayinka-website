@@ -2,7 +2,7 @@
 title: Mastering the Art of Landing Page Optimization
 author: Designer_yinka
 date: 2024-08-18
-tags: ["post", "featured"]
+tags: ["post"]
 image: /assets/blog/landing.png
 authorImage: /assets/blog/author.webp
 authorUrl: https://designeryinka.com/

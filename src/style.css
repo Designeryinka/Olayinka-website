@@ -1171,11 +1171,10 @@ footer .links a:hover {
   display: grid;
   grid-template-columns: 1fr 2fr;
   gap: 40px;
-  background: var(--accent-clr);
   padding: 40px;
-  border: 1px solid var(--bg-clr);
-  border-radius: 40px;
   align-items: center;
+  border: 0px solid var(--accent-clr);
+  border-radius: 4px;
 }
 
 .testimonial-col .one {
@@ -1191,11 +1190,12 @@ footer .links a:hover {
 }
 
 .testimonial {
-  padding: 20px;
+  padding: 30px;
   background: var(--bg-clr);
   border-radius: 20px;
-  height: 400px;
-  width: 400px;
+  height: 420px;
+  width: 420px;
+  border: 1px solid var(--accent-clr);
 }
 
 .testimonial p {
@@ -1961,6 +1961,7 @@ textarea {
   margin-top: 140px;
   max-width: 900px;
   margin-inline: auto;
+  font-family: 500;
 }
 
 .art-title {
@@ -1976,6 +1977,19 @@ textarea {
 .main-article img {
   margin-bottom: 20px;
   width: 100%;
+}
+
+.main-article ol,
+.main-article ul {
+  font-weight: 400;
+  color: var(--paragraph-clr);
+}
+.main-article h3 {
+  margin-block: 20px;
+}
+
+.main-article h2 {
+  margin-top: 40px;
 }
 
 .author {
@@ -2159,4 +2173,20 @@ pre {
 }
 li > p {
   margin-bottom: 8px;
+}
+
+.pro-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(350px, 100%), 1fr));
+  gap: 20px;
+  max-width: 1100px;
+  margin-inline: auto;
+}
+.pro-label h4 {
+  font-size: 300px;
+  line-height: 100%;
+  color: black;
+  -webkit-text-fill-color: white; /* Will override color (regardless of order) */
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
 }
