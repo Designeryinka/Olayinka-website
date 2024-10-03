@@ -8,7 +8,7 @@ authorImage: /assets/blog/author.webp
 authorUrl: https://designeryinka.com/
 imageAlt: ecommerce image
 category: Webdesign
-pagedescription: Ever wanted to build your own website? Say hello to Webflow, the modern way to build for the web without the need for any code.
+pagedescription: Welcome to the world of eCommerce! If you've ever shopped online (and who hasn't?), you know how convenient it is
 description: Welcome to the world of eCommerce! If you've ever shopped online (and who hasn't?), you know how convenient it is. But have you ever wondered what goes on behind the scenes of those websites? In this article, we're diving into the ins and outs of eCommerce websites, their types, what makes them tick, and how you can set up your own. So, grab a coffee, and let’s get started!
 ---
 
