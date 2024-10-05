@@ -2190,3 +2190,55 @@ li > p {
   -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: black;
 }
+
+.site {
+  position: relative;
+}
+
+.site:after {
+  content: "";
+  height: 120px;
+  width: 2px;
+  position: absolute;
+  left: -2px;
+  top: 65%;
+  transition: top, opacity;
+  transition-duration: 600ms;
+  transition-timing-function: ease;
+  background: linear-gradient(transparent, var(--accent-clr), transparent);
+  opacity: 0;
+}
+
+.site:after {
+  top: 65%;
+  opacity: 0;
+}
+
+.site:hover:after {
+  top: 25%;
+  opacity: 1;
+}
+@keyframes pulsed {
+  from,
+  to {
+    scale: 1;
+  }
+
+  50% {
+    scale: 1.02;
+  }
+}
+
+.site {
+  cursor: pointer;
+}
+
+.site > img {
+  object-fit: cover;
+  border-radius: inherit;
+}
+
+.site:hover > img {
+  animation: pulsed 800ms ease-in-out;
+  filter: url(#noise);
+}
