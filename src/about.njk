@@ -139,7 +139,29 @@ pagedescription: About - designer_yinka specializes in custom website design, we
                    </div>
                 </div>
                </section>
-                   
+               <section>
+                <div class="container_large">
+                    <div class="padding_global">
+                        <div class="section-title mid">
+                            <h2 class="tit"> Blog
+                             </h2>
+                           
+                            
+                        </div>
+                        <div>
+                          <ul role="list" class="articles__list flow">
+                              {%- for post in collections.featured | reverse -%}
+                                 {% include 'article-snippet.njk' %}
+                              {%- endfor -%}
+                          </ul>
+                        </div>
+                        
+                        <div class="centerd-botton">
+                            <a href="/blog" class="button">Show more Articles</a>
+                        </div>
+                    </div>
+                </div>
+              </section>
                <section class="cta">
                 <div class="container_large">
                     <div class="padding_global">

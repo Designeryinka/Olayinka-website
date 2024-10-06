@@ -142,7 +142,36 @@ pagedescription: Experienced Webflow/Front-end developer crafting responsive, us
                     
                   </div>
                     <div class="about-component">
-                      <div class="imagedd">
+                      <svg style="display: none;">
+                        <defs>
+                          <filter id="noise">
+                            <feTurbulence
+                              baseFrequency="0.7,0.8"
+                              seed="0"
+                              type="fractalNoise"
+                              result="static"
+                            >
+                              <animate
+                                attributeName="seed"
+                                values="0;100"
+                                dur="800ms"
+                                repeatCount="1" 
+                                begin="card.mouseenter"                           
+                              />
+                            </feTurbulence>
+                            <feDisplacementMap in="SourceGraphic" in2="static">
+                              <animate
+                                attributeName="scale"
+                                values="10;40;0"
+                                dur="800ms"
+                                repeatCount="1" 
+                                begin="card.mouseenter"                           
+                              />
+                            </feDisplacementMap>
+                          </filter>  
+                        </defs>
+                      </svg>
+                      <div class="imagedd" id="card">
                         <img src="/assets/images/avartar 3.png" alt="olayinka ajelolu's image avarta">
                       </div>
                         <div class="abts">
@@ -177,10 +206,16 @@ pagedescription: Experienced Webflow/Front-end developer crafting responsive, us
                           
                           <div id="webflow" aria-labelledby="tab-1">
                             <div class="twos">
-                              <p class="ei">
-                                I specialize in crafting high-converting, visually striking websites that not only grab attention but also elevate your online presence to new heights. Every design is tailored to reflect your brand’s unique identity and drive real results, whether it's increased engagement, leads, or sales. Let’s collaborate to turn your vision into a beautifully functional reality, delivering a digital experience that resonates with your audience and achieves your business goals.
-                              </p>
+                             
+                              <div>
+                                <h3>Elevate your online presence with tailored websites</h3>
+                                <p class="ei">I specialize in crafting high-converting, visually striking websites that not only grab attention but also elevate your online presence to new heights. Every design is tailored to reflect your brand’s unique identity and drive real results, whether it's increased engagement, leads, or sales. Let’s collaborate to turn your vision into a beautifully functional reality, delivering a digital experience that resonates with your audience and achieves your business goals.
+                                </p>
+                              </div>
                               <img src="/assets/images/landing.webp" alt="">
+                              
+                                
+                             
                              
                             </div>  
                             
@@ -188,20 +223,33 @@ pagedescription: Experienced Webflow/Front-end developer crafting responsive, us
                           <div id="design" aria-labelledby="tab-2">
                               
                             <div class="twos">
-                              <p class="ei">
-                                Double your conversion rates with meticulously crafted landing pages that are strategically designed for success. Every element, from the compelling headline to the perfectly placed call-to-action, is carefully curated to guide visitors through a seamless user journey and inspire them to take action. We focus on optimizing both the design and the functionality to ensure that your landing page not only grabs attention but also drives measurable, impactful results. 
-                              </p>
+                              
+                              <div>
+                                <h3>Skyrocket your conversion rates with meticulously crafted landing pages</h3>
+                                <p class="ei">
+                                  Double your conversion rates with meticulously crafted landing pages that are strategically designed for success. Every element, from the compelling headline to the perfectly placed call-to-action, is carefully curated to guide visitors through a seamless user journey and inspire them to take action. We focus on optimizing both the design and the functionality to ensure that your landing page not only grabs attention but also drives measurable, impactful results. 
+                                </p>
+                              </div>
                               <img src="/assets/images/saas.webp" alt="landing page example">
+                             
+                               
+                              
                              
                             </div> 
                              
                          </div>
                           <div id="dev" aria-labelledby="tab-3">
                             <div class="twos">
-                              <p class="ei">
-                                SEO is very important if your website is a tool to generate business, whether that be selling services or products. I have extensive experience managing SEO campaigns for businesses looking to outrank competitors and compete in search engines for relevant search terms. I also have experience with small businesses seeking local customers.
-                              </p>
+                              
+                              <div>
+                                <h3>Show up higher on google</h3>
+                                <p class="ei">
+                                   I have extensive experience managing SEO campaigns for businesses looking to outrank competitors and compete in search engines for relevant search terms. I also have experience with small businesses seeking local customers.
+                                </p>
+                              </div>
                               <img src="/assets/images/webflowseo.webp" alt="landing page example">
+                              
+                             
                              
                             </div> 
                               
@@ -655,30 +703,12 @@ pagedescription: Experienced Webflow/Front-end developer crafting responsive, us
                   </div>
                 </div>
               </div>
-          </section>
-            <section>
-              <div class="container_large">
-                  <div class="padding_global">
-                      <div class="section-title mid">
-                          <h2 class="tit"> Blog
-                           </h2>
-                         
-                          
-                      </div>
-                      <div>
-                        <ul role="list" class="articles__list flow">
-                            {%- for post in collections.featured | reverse -%}
-                               {% include 'article-snippet.njk' %}
-                            {%- endfor -%}
-                        </ul>
-                      </div>
-                      
-                      <div class="centerd-botton">
-                          <a href="/blog" class="button">Show more Articles</a>
-                      </div>
-                  </div>
-              </div>
-            </section>
+          
+
+
+		
+
+            
             <section class="cta">
               <div class="container_large">
                   <div class="padding_global">
@@ -723,7 +753,11 @@ pagedescription: Experienced Webflow/Front-end developer crafting responsive, us
           </section>
 
             
-            
+         
+          
+          
+          
+          
             
           
         
