@@ -1184,15 +1184,14 @@ footer .links a:hover {
 .testimonial {
   padding: 30px;
   background: var(--bg-clr);
-  border-radius: 20px;
-  height: 420px;
-  width: 420px;
-  border: 1px solid var(--accent-clr);
+  border-radius: 12px;
+
+  border: 1px solid gray;
 }
 
 .testimonial p {
-  white-space: wrap;
-  margin-top: 40px;
+  font-size: 16px;
+  opacity: 0.7;
 }
 
 .col-two {
@@ -1588,10 +1587,11 @@ footer .links a:hover {
   max-width: 1000px;
   margin-left: auto;
   margin-bottom: 40px;
-  padding-bottom: 40px;
+  padding-bottom: 60px;
   position: sticky;
   top: 20px;
   background-color: var(--bg-clr);
+  position: relative;
 }
 
 .pee {
@@ -1599,7 +1599,9 @@ footer .links a:hover {
 }
 
 .how p {
-  max-width: 700px;
+  max-width: 50ch;
+  font-size: 16px;
+  line-height: 1.5;
 }
 
 .how-number {
@@ -2195,12 +2197,12 @@ li > p {
 }
 
 .site,
-.twos {
+.twos, .testimonial {
   position: relative;
 }
 
 .site:after,
-.twos:after {
+.twos:after, .testimonial:after{
   content: "";
   height: 120px;
   width: 2px;
@@ -2215,13 +2217,13 @@ li > p {
 }
 
 .site:after,
-.twos:after {
+.twos:after , .testimonial:after{
   top: 65%;
   opacity: 0;
 }
 
 .site:hover:after,
-.twos:hover:after {
+.twos:hover:after,.testimonial:hover:after {
   top: 25%;
   opacity: 1;
 }
@@ -2254,3 +2256,55 @@ li > p {
   animation: pulsed 800ms ease-in-out;
   filter: url(#noise);
 }
+#testimonial {
+  max-width: 1200px;
+  margin-inline: auto;
+}
+.bento-grid {
+  margin: 40px auto;
+  display: column;
+  columns: 3;
+  gap: 20px;
+  max-width: 1200px;
+  margin-inline: auto;
+}
+
+.bento-grid > * {
+  break-inside: avoid;
+  margin-bottom: 20px;
+}
+
+@supports (grid-template-rows: masonry) {
+  .bento-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: masonry;
+  }
+
+  .bento-grid > * {
+    margin-bottom: 0px;
+  }
+}
+
+@media(max-width:1000px){
+  .bento-grid{
+  
+      margin: 40px auto;
+      display: column;
+      columns: 2;
+      gap:20px;
+      
+  }
+
+  @media(max-width:700px){
+    .bento-grid{
+    
+        margin: 40px auto;
+        display: column;
+        columns: 1;
+        gap:20px;
+        
+    }
+  
+    
+    }
