@@ -2255,6 +2255,10 @@ li > p {
   border-radius: inherit;
 }
 
+.testimonial img{
+  display: none;
+}
+
 .site:hover > img {
   animation: pulsed 800ms ease-in-out;
   filter: url(#noise);
