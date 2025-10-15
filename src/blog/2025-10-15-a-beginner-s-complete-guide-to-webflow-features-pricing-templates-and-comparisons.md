@@ -5,7 +5,7 @@ title: >-
 description: A beginner's introduction to Webflow
 pagedescription: >-
   Discover everything about Webflow — pricing, templates, comparisons,
-  tutorials, and careers. ,Your ultimate all-in-one Webflow resource.
+  tutorials, and careers. Your ultimate all-in-one Webflow resource.
 author: Aderemi Toluwani
 authorImage: /assets/blog/what-is-webflow.jpg
 authorUrl: google.com
@@ -20,13 +20,13 @@ imageAlt: What is Webflow
 
 
 
-1. What is Webflow?
+1. ##What is Webflow?
 
-2. Why Choose Webflow for Website Design?
+2. ##Why Choose Webflow for Website Design?
 
-3. Webflow Pricing Explained
+3. ##Webflow Pricing Explained
 
-4. Webflow Templates
+4. ##Webflow Templates
 
 5. Learning Webflow
 
@@ -40,7 +40,7 @@ imageAlt: What is Webflow
 
 
 
-Introduction
+##Introduction
 
 
 
