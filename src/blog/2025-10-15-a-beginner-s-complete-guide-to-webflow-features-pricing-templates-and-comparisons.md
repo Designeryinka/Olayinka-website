@@ -163,7 +163,6 @@ Although WordPress is powerful, it’s also bloated and plugin-heavy.  **Wix** a
 👉 _Curious? Explore Webflow’s features or Try Webflow free today._  
 
 ## Freelance Business with Webflow
-
 <br>
 
 Businesses need beautiful, responsive sites, but not the long development times or coding issues.  
@@ -229,7 +228,7 @@ So, where do you actually land projects?
 
 How Much Does a Webflow Freelancer Earn?
 
-## 💰 Webflow Freelancer Salaries & Earning Potential
+### 💰 Webflow Freelancer Salaries & Earning Potential
 
 <br>
 
@@ -262,8 +261,8 @@ Ensure you position yourself well using the keywords Webflow developer freelance
 If you’re calculating project costs or pitching to clients, don’t skip the Webflow pricing page.
 
 ## Webflow Templates & Design Options
-
 <br>
+
 You don’t always want to start from scratch. 
 
 Instead, you can pick a template and customize it to your brand.
@@ -354,7 +353,7 @@ for the full breakdown.
 
 (Insert table: Webflow Plans vs Key Features — Free, CMS, Business, Enterprise.)
 
-## Building and Maintaining a Webflow Site
+### Building and Maintaining a Webflow Site
 
 Building in Webflow is free. You can design and prototype for free. The cost comes in when you want to publish. A custom domain, CMS, and hosting are part of what you pay for in your selected plan.
 
