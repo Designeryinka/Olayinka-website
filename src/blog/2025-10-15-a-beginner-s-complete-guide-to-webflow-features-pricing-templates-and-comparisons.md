@@ -695,8 +695,7 @@ section — there’s an SEO setup guide in there._
 
 Security is often overlooked until something breaks. But Webflow takes it seriously — and does the heavy lifting behind the scenes.
 
-#### Here’s what’s included in every plan:
-<br>
+#### Here’s what’s included in every plan:  <br>
 
 * Automatic SSL encryption
 
