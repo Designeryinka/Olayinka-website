@@ -162,7 +162,9 @@ Although WordPress is powerful, it’s also bloated and plugin-heavy.  **Wix** a
 
 👉 _Curious? Explore Webflow’s features or Try Webflow free today._  
 
-## Freelance Business with Webflow<br>
+## Freelance Business with Webflow
+
+<br>
 
 Businesses need beautiful, responsive sites, but not the long development times or coding issues.  
 
@@ -229,25 +231,27 @@ How Much Does a Webflow Freelancer Earn?
 
 ## 💰 Webflow Freelancer Salaries & Earning Potential
 
+<br>
+
 In the meantime, let's talk about money. So, what should you actually charge as a Webflow freelancer?
 
 * **Per Project Rates**: Starts from $1,500 upwards for small sites; larger ones with CMS + e-commerce integrations can rise to the tune of $10,000 or more.
 
->Usual portfolio sites: $1,000-$2,000
+  >Usual **portfolio** sites: $1,000-$2,000
 
->Corporate sites: $3,000-$6,000
+  >**Corporate** sites: $3,000-$6,000
 
->Complex eCommerce projects: $10,000 and up. 
+  >Complex **eCommerce** projects: $10,000 and up. 
 
-And keep in mind: you do not earn once. Many freelancers lock in standing retainers for site updates and maintenance, which yield a second income stream on top of project fees.
+  And keep in mind: you do not earn once. Many freelancers lock in standing retainers for site updates and maintenance, which yield a second income stream on top of project fees.
 
 * **Per Hour Rates**: Freelance Webflow designers can charge from $50 to $150 an hour, depending on the experience and the scope of the project. 
 
-Salaries depend on the role, experience, and location. Quick heads up:
+  Salaries depend on the role, experience, and location. Quick heads up:
 
-Webflow designers of the agency or full-time: $5
+   >Webflow designers of the agency or full-time: $5
 
-Webflow Developers (Advanced Custom Builds): $70,000-$120,000 per annum.
+   >Webflow Developers (Advanced Custom Builds): $70,000-$120,000 per annum.
 
 👉 Related internal link: [Webflow Jobs & Careers](#webflow-careers)
 
@@ -257,7 +261,9 @@ Ensure you position yourself well using the keywords Webflow developer freelance
 
 If you’re calculating project costs or pitching to clients, don’t skip the Webflow pricing page.
 
-## Webflow Templates & Design Options<br>
+## Webflow Templates & Design Options
+
+<br>
 You don’t always want to start from scratch. 
 
 Instead, you can pick a template and customize it to your brand.
@@ -324,7 +330,9 @@ Templates aren’t something you only use as a quick fix; they help you accelera
 
 Want to really find out how much it takes to keep running a site using templates? Check out the Webflow pricing page to compare all the hosting plans.
 
-## Webflow Pricing <br>
+## Webflow Pricing 
+
+<br>
 
 Perhaps you’re wondering "How much do Webflow websites cost?" It depends on what you want and how you intend to use it. Webflow has flexible pricing tiers, and value can vary from personal projects up to enterprise websites. Let's break it down.
 
@@ -370,7 +378,9 @@ For most small-to-medium businesses, scaling is smooth; however, very large proj
 
 (Insert infographic: “Webflow Projects per Plan” for easy visualization.)
 
-## Webflow Learning Resources <br>
+## Webflow Learning Resources 
+
+<br>
 
 Learning Webflow doesn’t have to be overwhelming. In fact, one of the platform’s greatest strengths is how beginner-friendly it is while still having depth for advanced developers. Whether you’re a rookie or already a seasoned coder, there’s a Webflow tutorial or resource for you. Let’s go through the different learning paths to get you from zero to Webflow expert.
 
@@ -460,7 +470,9 @@ Beyond the University, there’s a robust Webflow community, where you have mult
 
 (Insert image: Screenshot of Webflow University course dashboard showing course categories.)
 
-## The Webflow Design Process & System
+## The Webflow Design Process & System 
+
+<br>
 
 However you view it, learning Webflow is basically learning the design process. There’s more to the design process than simply dragging elements around a canvas. It is about giving a structure to design thinking with scalability factored in. 
 
@@ -550,6 +562,7 @@ You need full coding flexibility? ? Then go to WordPress.
 👉 Check out our Webflow tutorials to get hands-on with the builder, or head over to the pricing page to see which plan fits your goals.
 
 ## Webflow Technical FAQs
+<br>
 
 It’s time to clear up the confusion — so you know exactly what Webflow can (and can’t) do.
 
