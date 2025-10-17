@@ -697,6 +697,7 @@ Security is often overlooked until something breaks. But Webflow takes it seriou
 
 #### Here’s what’s included in every plan:
 <br>
+
 * Automatic SSL encryption
 
 * Regular security audits and DDoS protection
