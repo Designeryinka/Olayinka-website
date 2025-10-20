@@ -502,7 +502,7 @@ You don’t have to learn a new programming language to start working with Webfl
 
 >>   **Why Should I Care?**
 >
->> For developers, Webflow is not here to displace code; it accelerates your projects.    
+>> For developers, Webflow is not here to displace code; it accelerates your projects.   
 >
 >>  Instead of spending days setting up boilerplate CSS or HTML, jump straight to customization or design of your project.
 
