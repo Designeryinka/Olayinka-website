@@ -531,7 +531,7 @@ It supports native integrations out of the box, so you can link your analytics, 
 Here are ways you can connect Webflow with your everyday tools:  
 
 
-* **✅ Native Integrations**: These are plug-and-play connections that don’t need coding like Google Analytics & Google Tag Manager Zapier & Make (formerly Integromat) Mailchimp HubSpot Finsweet tools  
+* **✅ Native Integrations**: These are plug-and-play connections that don’t need coding like Google Analytics & Google Tag Manager Zapier & Make (formerly Integromat) Mailchimp HubSpot Finsweet tools.  
 
 
 * **🧩 Custom Code Embeds**: For everything else, just use an embed block. Drop in your JavaScript, HTML or iframe snippet — and you’re set. Perfect for integrating chatbots, dynamic widgets or booking forms.  
@@ -540,10 +540,13 @@ Here are ways you can connect Webflow with your everyday tools:
 * **⚙️ API & Webhooks**: For developers, Webflow’s API and webhooks open the door to advanced automations. You can sync Webflow CMS data with external databases, send updates to Slack or automate publishing workflows.  
 
 
->>Let’s say you design a blog powered by Webflow’s CMS. You can use a webhook that automatically triggers an email campaign via Mailchimp each time you publish a new post. 
+>>Let’s say you design a blog powered by Webflow’s CMS. You can use a webhook that automatically triggers an email campaign via Mailchimp each time you publish a new post.  
+ 
 (Insert table: “Integration Type – What It Does – Best Use Case”)
 👉 To see these in action, visit our Coding & Development
-page for real integration tutorials.
+page for real integration tutorials.  
+
+
 
 But bear at the back of your mind that if you export code, you will not get Webflow CMS and hosting-specific features. However, with a JavaScript API, you may extend Webflow; but, the backend logic is not something you can change. 
 
