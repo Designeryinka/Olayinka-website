@@ -378,7 +378,7 @@ Maintenance is a simpler affair as there are no updates or patching. Because you
 
 For freelancers, this is gold: you can combine hosting costs with your client projects and price these as recurring revenues.
 
-#### Plan Limits
+#### Plan Limits  
 
 So, how many websites can you make with Webflow?
 
@@ -407,8 +407,10 @@ Whether you’re a rookie or already a seasoned coder, there’s a Webflow tutor
 
 * **Rebuild Websites**: Pick a site you like and practice recreating it in Webflow.
 
-* **Learn From Templates**: Dissemble as many templates as you can to understand their structure and styling.
-* **Make Friends in the Community**: Join The Webflow forum, Reddit groups, and Discord communities for latest insights.
+* **Learn From Templates**: Dissemble as many templates as you can to understand their structure and styling.  
+
+* **Make Friends in the Community**: Join The Webflow forum, Reddit groups, and Discord communities for latest insights.  
+
 * ** Hire & Learn**: Partner with a pro so they can teach you while working alongside them.
 
 👉 You can explore more here: Learning Webflow
