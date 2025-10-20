@@ -255,6 +255,8 @@ If you’re calculating project costs or pitching to clients, don’t skip the W
 
 ## Webflow Templates & Design Options
 
+![](/assets/blog/chatgpt-image-oct-20-2025-10_07_25-am.png)
+
 <br>
 
 You don’t always want to start from scratch. 
