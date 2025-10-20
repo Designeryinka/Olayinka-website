@@ -239,7 +239,6 @@ So, where do you actually land projects?
 
 - - -
 
-How Much Does a Webflow Freelancer Earn?
 
 ### 💰 Webflow Freelancer Salaries & Earning Potential
 
@@ -274,6 +273,7 @@ If you’re calculating project costs or pitching to clients, don’t skip the W
 
 ## Webflow Templates & Design Options  
 <br>
+
 You don’t always want to start from scratch. 
 
 Instead, you can pick a template and customize it to your brand.
