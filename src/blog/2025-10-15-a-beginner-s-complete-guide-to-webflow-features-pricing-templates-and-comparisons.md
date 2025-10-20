@@ -36,16 +36,14 @@ Here’s the good news: Webflow changes everything. It gives you full creative c
 
 1. [What is Webflow?](#what-is-webflow)
 2. [Why Choose Webflow for Website Design?](#why-choose-webflow-for-website-design)
-3. [Webflow Pricing Explained](#webflow-pricing-explained)
-   * [How Much Does a Webflow Website Cost?](#how-much-does-a-webflow-website-cost)
-   * [Can You Make Money with Webflow?](#can-you-make-money-with-webflow)
-   * [Webflow Website Limits](#webflow-website-limits)
-4. [Webflow Templates](#webflow-templates)
-5. [Learning Webflow](#learning-webflow)
-6. [Webflow Careers](#webflow-careers)
-7. [Webflow Comparisons](#webflow-comparisons)
-8. [Technical FAQs About Webflow](#technical-faqs-about-webflow)
-9. [Conclusion & Resources](#conclusion--resources)
+3. [Webflow Vs Other Builders](#webflow-vs-other-builders)  
+4. [Freelance Business with Webflow](#freelance-business-with-webflow)
+5. [Webflow Templates & Design Options](#webflow-templates-&-design-options)
+6. [Webflow Pricing](#webflow-pricing)  
+7. [Webflow Learning Resources](#webflow-learning-resources)
+8. [Webflow Development & Coding](#webflow-development-&-coding)
+6. [Conclusion](#conclusion)
+7. [Technical FAQs About Webflow](#technical-faqs-about-webflow)
 
 - - -
 
