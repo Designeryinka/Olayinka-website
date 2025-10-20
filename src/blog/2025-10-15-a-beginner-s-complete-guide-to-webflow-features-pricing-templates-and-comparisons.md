@@ -334,6 +334,8 @@ Want to really find out how much it takes to keep running a site using templates
 
 ## Webflow Pricing 
 
+
+
 <br>
 
 Perhaps you’re wondering "How much do Webflow websites cost?" It depends on what you want and how you intend to use it. Webflow has flexible pricing tiers, and value can vary from personal projects up to enterprise websites. Let's break it down.
@@ -381,6 +383,7 @@ For most small-to-medium businesses, scaling is smooth; however, very large proj
 (Insert infographic: “Webflow Projects per Plan” for easy visualization.)
 
 ## Webflow Learning Resources 
+![Webflow 101 course in Webflow University]("C:\Users\HP\Videos\Captures\Webflow 101 _ Webflow Learning Resources.png" "Webflow 101")
 
 <br>
 
