@@ -236,7 +236,7 @@ In the meantime, let's talk about money. So, what should you actually charge as 
   > **Corporate** sites: $3,000-$6,000
   >
   > Complex **eCommerce** projects: $10,000 and up. 
-  And keep in mind: you do not earn once. Many freelancers lock in standing retainers for site updates and maintenance, which yield a second income stream on top of project fees.
+  > And keep in mind: you do not earn once. Many freelancers lock in standing retainers for site updates and maintenance, which yield a second income stream on top of project fees.
 * **Per Hour Rates**: Freelance Webflow designers can charge from $50 to $150 an hour, depending on the experience and the scope of the project. 
   Salaries depend on the role, experience, and location. Quick heads up:
   > Webflow designers of the agency or full-time: $5
