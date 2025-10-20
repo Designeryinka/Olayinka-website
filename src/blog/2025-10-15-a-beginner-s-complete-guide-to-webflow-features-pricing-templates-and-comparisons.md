@@ -500,11 +500,11 @@ You don’t have to learn a new programming language to start working with Webfl
 
 (Insert infographic: “Webflow Tech Stack Overview – HTML, CSS, JS (front end) + React.js-powered Designer”)
 
->   **Why Should I Care?**
-
->  For developers, Webflow is not here to displace code; it accelerates your projects.    
-
-   >Instead of spending days setting up boilerplate CSS or HTML, jump straight to customization or design of your project.
+>>   **Why Should I Care?**
+>
+>> For developers, Webflow is not here to displace code; it accelerates your projects.    
+>
+>>  Instead of spending days setting up boilerplate CSS or HTML, jump straight to customization or design of your project.
 
 That means you can:
 
