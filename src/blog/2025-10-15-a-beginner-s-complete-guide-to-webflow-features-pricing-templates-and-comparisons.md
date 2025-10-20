@@ -274,9 +274,7 @@ If you’re calculating project costs or pitching to clients, don’t skip the W
 ## Webflow Templates & Design Options  
 <br>
 
-You don’t always want to start from scratch. 
-
-Instead, you can pick a template and customize it to your brand.
+You don’t always want to start from scratch when, instead, you can pick a template and customize it to your brand.
 
 Templates are the biggest time-savers in Webflow. 
 
