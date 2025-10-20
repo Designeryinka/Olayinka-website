@@ -327,7 +327,7 @@ Want to really find out how much it takes to keep running a site using templates
 
 ![](/assets/blog/pricing-plans.jpg)
 
-!\[Webflow Plans Pricing](C:\Users\HP\Downloads-_-Pricing Plans.jpg)
+
 <br>
 
 Perhaps you’re wondering "How much do Webflow websites cost?" It depends on what you want and how you intend to use it. Webflow has flexible pricing tiers, and value can vary from personal projects up to enterprise websites. Let's break it down.
