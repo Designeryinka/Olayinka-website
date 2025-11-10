@@ -509,7 +509,7 @@ The Webflow design system amplifies the design process. By using styles at a glo
 
 (Insert diagram: Webflow design process flowchart-Wireframe → Structure → Styling → Responsive → Publish.)
 
-## Webflow Development & Coding
+## <a href="https://designeryinka.com/blog/2024-05-15-understanding-webflow-developmet-a-comprehensive-exploration/" target="_blank">Webflow Development & Coding</a>
 
 <br>
 
