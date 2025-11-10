@@ -67,7 +67,7 @@ For many, that makes it one of the **best professional web design software** opt
 
 ### Here’s what you can create code-free:
 
-* **Landing pages** with responsive layouts   
+* **<a href="https://designeryinka.com/blog/2024-08-18-mastering-art-of-landing-page-optimization/" target="_blank">Landing pages</a>** with responsive layouts   
 
 * **Blogs** powered by the Webflow CMS 
 
@@ -185,7 +185,7 @@ There’s enough work to go around from:
 
 * **Startups** wanting custom landing pages, or  
 
-* **eCommerce** brands wanting responsive design that sells.  
+* **<a href="https://designeryinka.com/blog/2024-09-03-ecommerce-website-explained/" "target=_blank">eCommerce</a>** brands wanting responsive design that sells.  
 
 As a freelancer, **Webflow is not a mere tool; it is your leverage.**  
 
@@ -203,7 +203,7 @@ Whether you’re a beginner or already working in tech, **Webflow skills can lan
 
 * **Web Designer (No-Code Focus)** – Design and build compelling websites without heavy programming.  
 
-* **Webflow Developer** – Build custom integrations and work on Webflow sites with APIs, CMS, and advanced features.  
+* **<a href="https://designeryinka.com/blog/2024-05-15-understanding-webflow-developmet-a-comprehensive-exploration/" target="_blank">Webflow Developer</a>** – Build custom integrations and work on Webflow sites with APIs, CMS, and advanced features.  
 
 * **Freelance Webflow Expert** – Work on Webflow projects for startups, agencies, and clients worldwide independently.  
 
@@ -213,7 +213,7 @@ Whether you’re a beginner or already working in tech, **Webflow skills can lan
 
 * **Marketing Specialist / Growth Hacker** – Launch fast landing pages for campaign promotions.  
 
-* **Maintenance and Support** – Keep Webflow sites up to date, SEO-optimized, and supported.  
+* **Maintenance and Support** – Keep Webflow sites up to date, <a href= "https://designeryinka.com/blog/2024-08-16-beginners-seo-guide/" target="_blank">SEO-optimized</a>, and supported.  
 
 📌 _(Insert table: “Job Titles + Typical Responsibilities + Average Pay”)_  
 
