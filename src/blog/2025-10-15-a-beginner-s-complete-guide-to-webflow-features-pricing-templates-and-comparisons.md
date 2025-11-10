@@ -439,8 +439,7 @@ If you’re just starting out, you’ll want a Webflow website builder tutorial 
 
 * **Building your first layout** – Creating a simple homepage with sections and grids.
 
-* **Publishing basics** – How to connect a <a href=
-"https://designeryinka.com/blog/2024-08-30-how-to-choose-the-perfect-domain-name-in-2025/" target="_blank">custom domain<a/> and publish live.
+* **Publishing basics** – How to connect a <a href= "https://designeryinka.com/blog/2024-08-30-how-to-choose-the-perfect-domain-name-in-2025/" target="_blank">custom domain</a> and publish live.
 
 (Insert screenshot: Webflow Designer interface with callouts for navigation, elements and styling tools)
 
