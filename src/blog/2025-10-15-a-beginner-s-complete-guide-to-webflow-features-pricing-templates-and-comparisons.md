@@ -154,7 +154,7 @@ Whichever it is, Webflow covers all your needs as you grow — so you can never 
 
 Let me guess — you’ve once Googled:  
 
-> _“What’s the <a href="https://designeryinka.com/blog/2024-10-22-framer-vs-webflow/">best website builder</a>?”_\
+> _“What’s the <a href="https://designeryinka.com/blog/2024-10-22-framer-vs-webflow/" target="_blank">best website builder</a>?”_\
 > or perhaps _“What is the most used website builder in the world?”_  
 
 Spoiler: the most used is **WordPress**. But popularity doesn’t always equal “best.”  
