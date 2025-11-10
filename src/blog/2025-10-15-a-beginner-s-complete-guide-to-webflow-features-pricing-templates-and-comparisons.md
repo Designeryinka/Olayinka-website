@@ -439,7 +439,8 @@ If you’re just starting out, you’ll want a Webflow website builder tutorial 
 
 * **Building your first layout** – Creating a simple homepage with sections and grids.
 
-* **Publishing basics** – How to connect a custom domain and publish live.
+* **Publishing basics** – How to connect a <a href=
+"https://designeryinka.com/blog/2024-08-30-how-to-choose-the-perfect-domain-name-in-2025/" target="_blank">custom domain<a/> and publish live.
 
 (Insert screenshot: Webflow Designer interface with callouts for navigation, elements and styling tools)
 
@@ -501,7 +502,7 @@ However you view it, learning Webflow is basically learning the design process. 
 
 * **Building structure** - Use containers, sections, and grids to frame the page.
 
-* **Styling using classes** - Use reusable CSS classes instead of one-off adjustments.
+* **Styling using classes** - Use reusable <a href="https://designeryinka.com/blog/2024-08-24-css-units-explained/" target="_blank">CSS classes</a> instead of one-off adjustments.
 * **Responsive adjustments** - Test across all devices and refine.
 * **Publishing and iteration** – Launch, test, and enhance.
 
