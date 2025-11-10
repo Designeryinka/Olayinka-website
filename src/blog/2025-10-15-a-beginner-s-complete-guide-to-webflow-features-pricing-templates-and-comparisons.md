@@ -185,7 +185,7 @@ There’s enough work to go around from:
 
 * **Startups** wanting custom landing pages, or  
 
-* **<a href="https://designeryinka.com/blog/2024-09-03-ecommerce-website-explained/" "target=_blank">eCommerce</a>** brands wanting responsive design that sells.  
+* **<a href="https://designeryinka.com/blog/2024-09-03-ecommerce-website-explained/" target="_blank">eCommerce</a>** brands wanting responsive design that sells.  
 
 As a freelancer, **Webflow is not a mere tool; it is your leverage.**  
 
