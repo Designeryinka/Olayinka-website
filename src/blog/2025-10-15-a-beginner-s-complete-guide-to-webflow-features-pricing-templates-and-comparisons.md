@@ -384,7 +384,7 @@ So, how many websites can you make with Webflow?
 
 On a Free plan, you can have two projects. 
 
-On paid Workspace plans, you can create more, but each site still requires its own hosting plan if you want it live on a custom domain.
+On paid Workspace plans, you can create more, but each site still requires its own hosting plan if you want it live on a <a href="https://designeryinka.com/blog/2024-08-30-how-to-choose-the-perfect-domain-name-in-2025/" target="_blank">custom domain</a>.
 
 For most small-to-medium businesses, scaling is smooth; however, very large projects may require Enterprise features accommodating traffic, collaboration, and more advanced security.
 
