@@ -153,7 +153,8 @@ Whichever it is, Webflow covers all your needs as you grow — so you can never 
 
 ## **Webflow vs Other Builders**
 
-<br>
+![](/assets/blog/Squarespace vs. Wix vs. Webflow — Feature Comparison.png)
+
 
 Let me guess — you’ve once Googled:  
 
