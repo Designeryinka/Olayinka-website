@@ -80,7 +80,7 @@ For many, that makes it one of the **best professional web design software** opt
 👉 **Want a step-by-step introduction?** Start with our _Webflow tutorials_ to see how quickly you can launch your first site.  
 
 - - -
-<br>
+
 
 ## Who Is Webflow For?
 
@@ -100,9 +100,9 @@ Webflow isn’t just for designers and developers. It’s for everyone.
 
 >> Or a marketing agency juggling five projects with close deadlines.
 
->> **Webflow is built to serve each one.  **  
+>> **Webflow is built to serve each one.**  
 
-<br>
+
 
 ## Why Choose Webflow for Website Design?
 
