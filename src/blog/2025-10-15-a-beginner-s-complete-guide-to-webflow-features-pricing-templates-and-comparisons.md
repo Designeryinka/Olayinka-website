@@ -380,7 +380,9 @@ On average, you’ll spend:
 * **1-2 Months**: To be confident with CMS blogging or portfolio creation.
 * **3-6 Months**: For advanced animations, custom integrations, and client-ready projects. 
 
-(Insert timeline infographic: "Beginner -> Intermediate -> Advanced Webflow learning)
+
+
+![](/assets/blog/learning-webflow-timeline-beginner-intermediate-advanced.png)
 
 ### Beginner Tutorials and Guides
 
