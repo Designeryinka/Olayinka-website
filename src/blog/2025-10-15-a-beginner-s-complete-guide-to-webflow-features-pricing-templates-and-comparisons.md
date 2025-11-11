@@ -238,7 +238,7 @@ So, where do you actually land projects?
 >
 >>>An eye-catching Webflow portfolio site is what often decides whether your proposal gets the gig or gets neglected.  
 
-📌 **View Webflow templates** to give your portfolio a start or offer clients quick-start options.  
+📌 **<a href="https://webflow.com/templates" target="_blank">View Webflow templates</a>** to give your portfolio a start or offer clients quick-start options.  
 
 - - -
 
