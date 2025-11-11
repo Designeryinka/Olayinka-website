@@ -51,7 +51,7 @@ That’s why I put together this simple guide. From it, you’ll learn everythin
 
 <br>
 
-Webflow is a low-code tool that you can use to build responsive websites without writing a single line of code.  
+Webflow is a **low-code** tool that you can use to build **responsive** websites without writing a single line of code.  
 
 Rather, it lets you create websites by simply **dragging and dropping elements** (text, images, and buttons) onto your page, while the code is automatically written.  
 
@@ -65,17 +65,17 @@ For many, that makes it one of the **best professional web design software** opt
 
 - - -
 
-### Here’s what you can create code-free:
+### 📌Here’s what you can create code-free:
 
 * **<a href="https://designeryinka.com/blog/2024-08-18-mastering-art-of-landing-page-optimization/" target="_blank">Landing pages</a>** with responsive layouts   
 
 * **Blogs** powered by the Webflow CMS 
 
-* **eCommerce** stores with product catalogs and checkouts  
+* **<a href="https://designeryinka.com/blog/2024-09-03-ecommerce-website-explained/" target="_blank">eCommerce</a>** stores with product catalogs and checkouts  
 
 * **Portfolios**, business sites, and personal projects  
 
-📌 _\[Insert image: screenshot of Webflow interface with drag-and-drop and CMS side panel]_  
+  
 
 👉 **Want a step-by-step introduction?** Start with our _Webflow tutorials_ to see how quickly you can launch your first site.  
 
@@ -95,9 +95,11 @@ Webflow isn’t just for designers and developers. It’s for everyone.
 
 * **eCommerce brands** can design and manage content in one place.  
 
-> Imagine a founder who needs a website for his small startup but can’t afford a dev team.\
-> Or a marketing agency juggling five projects with close deadlines.\
-> **Webflow is built to serve each one.  **
+>> Imagine a founder who needs a website for his small startup but can’t afford a dev team.
+
+>> Or a marketing agency juggling five projects with close deadlines.
+
+>> **Webflow is built to serve each one.  **
 <br>
 
 ## Why Choose Webflow for Website Design?
