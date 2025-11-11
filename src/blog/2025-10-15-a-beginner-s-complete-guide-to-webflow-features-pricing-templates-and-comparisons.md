@@ -51,11 +51,11 @@ That’s why I put together this simple guide. From it, you’ll learn everythin
 
 <br>
 
-Webflow is a **low-code** tool that you can use to build **responsive** websites without writing a single line of code.  
+Webflow is a **low-code tool** that you can use to build **responsive websites** without writing a single line of code.  
 
-Rather, it lets you create websites by simply **dragging and dropping elements** (text, images, and buttons) onto your page, while the code is automatically written.  
+Rather, it lets you create websites by simply **dragging and dropping elements** (text, images, and buttons) onto your page, while the code is **automatically written**.  
 
-And you’re able to see what you are building close up, unlike traditional website building.  
+And you’re able to **see what you are building close up**, unlike traditional website building.  
 
 Not only does Webflow build websites, it’s also a **design tool and CMS rolled into one.**  
 
